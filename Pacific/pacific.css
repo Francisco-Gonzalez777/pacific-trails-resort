@@ -23,12 +23,31 @@ nav a{
 h1{
     margin-bottom: 0; /*margb: 0*/
 }
+h1, 
+h2, 
+h3,
+footer {
+    font-family: "Times New Roman", Times, Georgia, serif;
+}
 h2{
     color: #1976d2; /*c#1976d2*/
+}
+h3{
+    color: #003; /*c#003*/
 }
 dt{
     color: #002171; /*c#002171*/
 }
-.resort{
-    color: #1976d2; /*c#002171*/
+
+footer{
+ font-size: 75%; /*fz75%*/
+ font-style: italic; /*fst: italic*/
+ text-align: center; /*txa:center*/ 
+}
+
+.resort{color: #1976d2; /*c#002171*/
+    font-weight: bold; /*fwb:bold*/
+}
+#contact{
+    font-size: 90%; /*fz:90%*/
 }
