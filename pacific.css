@@ -162,7 +162,7 @@ footer{
     }
     nav{
         text-align: left;
-        padding-left: 1m; /*pl:1m*/
+        padding-left: 1em; /*pl:1m*/
 }
 @supports (display: grid) {
     nav ul{
