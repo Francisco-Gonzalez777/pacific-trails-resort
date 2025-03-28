@@ -155,7 +155,7 @@ form{
     flex-flow: column nowrap;  /*ff:column*/
 }
 input, 
-textarea{
+textarea {
     margin-bottom: 0.5em; /*margb:0.5em*/
 }
 
@@ -236,8 +236,7 @@ textarea{
         max-width: 30em; /*maxw:30em*/
         width: 60%; /*w%:60%*/
     }
-    input[type="submit"]
-    {
+    input[type="submit"]{
         grid-column: 2 / 3; /*gc:2/3*/
         width: 9em; /*w:9em*/
     }
